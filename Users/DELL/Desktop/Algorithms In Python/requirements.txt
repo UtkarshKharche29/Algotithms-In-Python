@@ -1,0 +1,15 @@
+beautifulsoup4
+fake_useragent
+keras
+lxml
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+requests
+scikit-fuzzy
+sklearn
+sympy
+tensorflow
+xgboost
